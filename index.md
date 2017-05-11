@@ -1,4 +1,4 @@
-## Hello from the team at Open Health Works
+## Hello from Open Health Works!
 
 A few things that we believe are making things better:
 
