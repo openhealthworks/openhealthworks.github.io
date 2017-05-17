@@ -1,2 +1,11 @@
-theme: jekyll-theme-merlot
 title: Open Health Works
+baseurl: ""
+google_analytics: UA-35112560-12
+
+markdown: kramdown
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - vendor
