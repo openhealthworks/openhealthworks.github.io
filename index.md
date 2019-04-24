@@ -13,7 +13,7 @@ of the [NHS Hack Day](http://nhshackday.com) community.
 Our advisory group are:
 
 * [Anne Marie Cunningham](https://twitter.com/amcunningham)
-* [Carl Reynolds](https://twitter.com/drcjar)
+* [Carl J Reynolds](https://twitter.com/drcjar)
 * [David Miller](https://twitter.com/thatdavidmiller)
 * [Helen Jackson](https://twitter.com/deckofpandas)
 * [Jon Hilton](https://twitter.com/jonjhilton)
